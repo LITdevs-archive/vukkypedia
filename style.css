@@ -3,7 +3,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF url(images/img01.png) repeat-x; 
+	background: #111111 url(images/img01.png) repeat-x; 
 	font-size: 13px;
 	color: #666666;
 }
@@ -35,13 +35,6 @@ p, ul, ol {
 	line-height: 200%;
 }
 
-blockquote {
-	padding-left: 1em;
-	border-top: 1px solid #EFEFEF;
-	border-left: 1px solid #EFEFEF;
-	background: #F9F9F9;
-}
-
 blockquote p, blockquote ul, blockquote ol {
 	line-height: normal;
 	font-style: italic;
@@ -54,8 +47,6 @@ a {
 a:hover {
 	text-decoration: none;
 }
-
-/* Header */
 
 #header {
 	width: 760px;
@@ -97,7 +88,7 @@ a:hover {
 #s {
 	width: 190px;
 	padding: 3px 5px;
-	border: 1px solid #FFFFFF;
+	border: 1px solid #111111;
 }
 
 #x {
