@@ -12,6 +12,8 @@ body, th, td, input, textarea, select, option {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 h1, h2, h3 {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #53cae7;
@@ -61,7 +63,7 @@ a:hover {
 
 #logo h1, #logo p {
 	margin: 0;
-	color: #FFFFFF;
+	color: #eeeeee;
 }
 
 #logo a {
