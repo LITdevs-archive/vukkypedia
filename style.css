@@ -5,7 +5,7 @@ body {
 	padding: 0;
 	background: #111111 url(images/img01.png) repeat-x; 
 	font-size: 13px;
-	color: #666666;
+	color: #eeeeee;
 }
 
 body, th, td, input, textarea, select, option {
@@ -14,7 +14,7 @@ body, th, td, input, textarea, select, option {
 
 h1, h2, h3 {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	color: #E75C14;
+	color: #53cae7;
 }
 
 h1 {
@@ -41,7 +41,7 @@ blockquote p, blockquote ul, blockquote ol {
 }
 
 a {
-	color: #3AA0B9;
+	color: #4dd8fa;
 }
 
 a:hover {
