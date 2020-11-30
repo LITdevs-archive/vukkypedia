@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Som | VukkyPedia</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="header">
+	<div id="logo">
+		<h1>VukkyPedia</h1>
+	</div>
+	<div id="search">
+		<form method="get" action="">
+			<fieldset>
+			<input id="s" type="text" name="s" value="" />
+			<input id="x" type="submit" value="Search" />
+			</fieldset>
+		</form>
+	</div>
+</div>
+<div id="page">
+	<!-- start content -->
+	<div id="content">
+		<div class="post">
+            <h1 class="title">v!fun-fact</h1>
+        </div>
+		<div class="post">
+			<h2 class="title"></h2>
+			<div class="entry">
+				<p>The v!fun-fact command is entirely dedicated to minecraft facts according to Vukky.</p>
+			</div>
+			<div style="display:block;max-width: fit-content;background-color: #eeeeee;color: #111111;">
+				<img src="media/fun-fact.png" style="float:right;border:2px solid #cccccc;max-width: 300px;">
+				<p style="padding-left:7px">A Discord message.</p>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+		<ul>
+			<li>
+				<h2>Stuff</h2>
+				<ul>
+					<li><a href="https://vukkypedia.xyz/">Home</a></li>
+					<li><a href="https://vukkypedia.xyz/">Vukky News</a></li>
+					<li><a href="https://vukkypedia.xyz/articles/index.html">VukkyPedia Articles</a></li>
+					<li><a href="#">I dont know</a></li>
+					<li><a href="https://discord.gg/KqSSnhEJwU">Join our discord</a></li>
+					<li><a href="#">uhh</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="footer">
+	<p>&copy;Vukky Ltd. &nbsp;&bull;&nbsp; Logo by <a href="#">Contest Winner</a>.</p>
+</div>
+</html>
